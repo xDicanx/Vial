@@ -30,7 +30,7 @@ To simulate real-world user behavior and ensure that the logic works across **an
 ## How to Run the Tests
 
 1. Pull this github rep (https://github.com/xDicanx/Vial) to your local machine
-2. Download the latest app version `https://drive.google.com/file/d/1Cyfyz78arBbYvGvZ1Lq9P9GpJsdbQ-yG/view?usp=drive_link`
+2. [Download the latest app version](https://drive.google.com/file/d/1Cyfyz78arBbYvGvZ1Lq9P9GpJsdbQ-yG/view?usp=drive_link)
 3. Start the local application at  `http://localhost:3000`
 4. In a separate terminal:
    ```bash
