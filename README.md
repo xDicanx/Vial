@@ -29,7 +29,19 @@ To simulate real-world user behavior and ensure that the logic works across **an
 
 ## How to Run the Tests
 
-1. Start the local application at `http://localhost:3000`
-2. In a separate terminal:
+1. Pull this github rep (https://github.com/xDicanx/Vial) to your local machine
+2. Download the latest app version `https://drive.google.com/file/d/1Cyfyz78arBbYvGvZ1Lq9P9GpJsdbQ-yG/view?usp=drive_link`
+3. Start the local application at  `http://localhost:3000`
+4. In a separate terminal:
    ```bash
    npx cypress open
+5. Run the test
+  The actual process is:
+  a. Create random query
+  b. Resolve random query
+  c. Delete random query
+  e. Verify if ALL the questions match with the modal questions (regardless of the state of the query)
+
+
+Please go ahead and try the tests.
+Im open to suggestions!
